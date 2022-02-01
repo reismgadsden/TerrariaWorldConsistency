@@ -10,11 +10,11 @@ int main() {
     bool loopCondition = true;
     while (loopCondition) {
         if (choice == '1') {
-            system("batch/push.bat");
+            system("push.bat");
             loopCondition = false;
         }
         else if (choice == '2') {
-            system("batch/pull.bat");
+            system("pull.bat");
             loopCondition = false;
         }
         else {

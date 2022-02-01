@@ -1,3 +1,5 @@
+ECHO HELLO
+PAUSE
 CD %USERPROFILE%\Documents\My Games\Terraria\Worlds
 git add .
 git commit -m "Worlds pushed by %USERNAME%"
