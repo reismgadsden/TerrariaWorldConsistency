@@ -1,3 +1,4 @@
+@ECHO Off
 CD %USERPROFILE%\Documents\My Games\Terraria\Worlds
 get fetch --all
 get reset --hard origin/main

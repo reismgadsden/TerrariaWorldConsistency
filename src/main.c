@@ -1,3 +1,9 @@
+/**
+ * C code for an exe that pushes and pulls terraria worlds if a github is set up for it
+ *
+ * author: Reis Gadsden
+ * version: v1.04
+ */
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
